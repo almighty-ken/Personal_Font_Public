@@ -1,0 +1,26 @@
+﻿已經開始建置於 2014/10/12 下午 04:32:02。
+     1>節點 2 (Rebuild 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Characte_Element_DB\Characte_Element_DB.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\OpenCV\build\include\opencv2 /ID:\OpenCV\build\include\opencv /ID:\OpenCV\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt s_c.cpp
+         s_c.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>D:\OpenCV\build\include\opencv2/legacy/compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>s_c.cpp(166): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(167): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(168): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(169): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(170): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(171): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(172): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(173): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>s_c.cpp(174): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Release\Characte_Element_DB.exe" /NOLOGO /LIBPATH:D:\OpenCV\build\x86\vc11\lib opencv_calib3d245.lib opencv_contrib245.lib opencv_core245.lib opencv_features2d245.lib opencv_highgui245.lib opencv_imgproc245.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Release\Characte_Element_DB.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Release\Characte_Element_DB.lib" /MACHINE:X86 /SAFESEH Release\s_c.obj
+         正在產生程式碼
+         已完成程式碼產生
+         Characte_Element_DB.vcxproj -> D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Release\Characte_Element_DB.exe
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Characte_Element_DB\Characte_Element_DB\Characte_Element_DB.vcxproj" (Rebuild 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:03.22
