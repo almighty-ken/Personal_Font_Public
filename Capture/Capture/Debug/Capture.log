@@ -1,0 +1,20 @@
+﻿已經開始建置於 2014/12/13 下午 12:21:12。
+     1>節點 2 (Build 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Capture\Capture.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtCore /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtGui /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt capture.cpp
+         capture.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>D:\opencv\build\include\opencv2/legacy/compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtCore /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtGui /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_capture.cpp
+         qrc_capture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Debug\\Capture.exe" /NOLOGO /LIBPATH:D:\opencv\build\x86\vc11\lib /LIBPATH:D:\Qt\Qt5.1.0\5.1.0\msvc2012\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_core245d.lib opencv_calib3d245d.lib opencv_contrib245d.lib opencv_features2d245d.lib opencv_highgui245d.lib opencv_imgproc245d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Debug\Capture.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Debug\Capture.lib" /MACHINE:X86 /SAFESEH Debug\capture.obj
+         Debug\moc_capture.obj
+         Debug\qrc_capture.obj
+         Debug\main.obj
+         Capture.vcxproj -> D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Debug\Capture.exe
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Capture\Capture.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:08.11

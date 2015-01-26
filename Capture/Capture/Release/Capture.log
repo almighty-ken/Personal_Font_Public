@@ -1,0 +1,31 @@
+﻿已經開始建置於 2014/10/18 下午 02:46:20。
+     1>節點 2 (Build 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Capture\Capture.vcxproj"。
+     1>CustomBuild:
+         Moc'ing capture.h...
+         Uic'ing capture.ui...
+         Rcc'ing capture.qrc...
+     1>RCC : warning : No resources in 'D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Capture\capture.qrc'.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\opencv\build\include\opencv /ID:\opencv\build\include /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include" /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\atlmfc\include" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\um" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\shared" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\winrt" /I.\GeneratedFiles /I. /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include /I.\GeneratedFiles\Release /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtCore /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtGui /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt capture.cpp GeneratedFiles\Release\moc_capture.cpp main.cpp
+         capture.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>D:\opencv\build\include\opencv2/legacy/compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         moc_capture.cpp
+         main.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>D:\opencv\build\include\opencv2/legacy/compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+         正在產生程式碼...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\opencv\build\include\opencv /ID:\opencv\build\include /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include" /I"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\atlmfc\include" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\um" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\shared" /I"C:\Program Files (x86)\Windows Kits\8.0\Include\winrt" /I.\GeneratedFiles /I. /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include /I.\GeneratedFiles\Release /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtCore /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtGui /ID:\Qt\Qt5.1.0\5.1.0\msvc2012\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_capture.cpp
+         qrc_capture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Release\\Capture.exe" /NOLOGO /LIBPATH:D:\opencv\build\x86\vc11\lib /LIBPATH:D:\Qt\Qt5.1.0\5.1.0\msvc2012\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib opencv_core245.lib opencv_calib3d245.lib opencv_contrib245.lib opencv_features2d245.lib opencv_highgui245.lib opencv_imgproc245.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Release\Capture.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Release\Capture.lib" /MACHINE:X86 /SAFESEH Release\capture.obj
+         Release\qrc_capture.obj
+         Release\moc_capture.obj
+         Release\main.obj
+         Capture.vcxproj -> D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Win32\Release\Capture.exe
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Capture\Capture\Capture.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:07.43
