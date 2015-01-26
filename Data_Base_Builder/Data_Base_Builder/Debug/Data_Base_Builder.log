@@ -1,0 +1,18 @@
+﻿已經開始建置於 2014/10/11 下午 02:59:31。
+     1>節點 2 (Build 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Data_Base_Builder\Data_Base_Builder.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\OpenCV\build\include\opencv2 /ID:\OpenCV\build\include\opencv /ID:\OpenCV\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\opencv\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\userdata\documents\visual studio 2012\projects\data_base_builder\data_base_builder\source.cpp(64): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>d:\userdata\documents\visual studio 2012\projects\data_base_builder\data_base_builder\source.cpp(74): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\userdata\documents\visual studio 2012\projects\data_base_builder\data_base_builder\source.cpp(76): warning C4244: '引數' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Debug\Data_Base_Builder.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\OpenCV\build\x86\vc11\lib opencv_core245d.lib opencv_highgui245d.lib opencv_imgproc245d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Debug\Data_Base_Builder.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Debug\Data_Base_Builder.lib" /MACHINE:X86 Debug\Source.obj
+         Data_Base_Builder.vcxproj -> D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Debug\Data_Base_Builder.exe
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Data_Base_Builder\Data_Base_Builder\Data_Base_Builder.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.87
