@@ -1,0 +1,18 @@
+﻿已經開始建置於 2014/10/20 上午 08:35:41。
+     1>節點 2 (Build 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Element_Capture_with_Pressure\Element_Capture_with_Pressure.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\OpenCV\build\include /ID:\OpenCV\build\include\opencv2 /ID:\OpenCV\build\include\opencv /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Multi_Char_Input.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Element_Capture_with_Pressure.cpp
+         Element_Capture_with_Pressure.cpp
+     1>Element_Capture_with_Pressure.cpp(112): error C2440: '=' : 無法由 'const char [17]' 轉換為 'LPCWSTR'
+                 指向的型別沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+     1>Element_Capture_with_Pressure.cpp(129): error C2664: 'CreateWindowExW' : 無法將參數 2 從 'const char [17]' 轉換成 'LPCWSTR'
+                 指向的型別沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+     1>Element_Capture_with_Pressure.cpp(241): error C2664: 'MessageBoxW' : 無法將參數 2 從 'const char [45]' 轉換成 'LPCWSTR'
+                 指向的型別沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+     1>Element_Capture_with_Pressure.cpp(267): error C2664: 'SetWindowTextW' : 無法將參數 2 從 'const char *' 轉換成 'LPCWSTR'
+                 指向的型別沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Element_Capture_with_Pressure\Element_Capture_with_Pressure.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.35

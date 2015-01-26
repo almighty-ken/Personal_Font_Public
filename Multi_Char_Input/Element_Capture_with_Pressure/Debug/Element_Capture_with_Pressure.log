@@ -1,0 +1,16 @@
+﻿已經開始建置於 2014/10/27 下午 08:32:00。
+     1>節點 2 (Build 目標) 上的專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Element_Capture_with_Pressure\Element_Capture_with_Pressure.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\OpenCV\build\include /ID:\OpenCV\build\include\opencv2 /ID:\OpenCV\build\include\opencv /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Multi_Char_Input.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cv_Capture.cpp
+         cv_Capture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Debug\Multi_Char_Input.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\OpenCV\build\x86\vc11\lib opencv_core245d.lib opencv_features2d245d.lib opencv_highgui245d.lib opencv_imgproc245d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Debug\Multi_Char_Input.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Debug\Multi_Char_Input.lib" /MACHINE:X86 Debug\Element_Capture_with_Pressure.res
+         Debug\cv_Capture.obj
+         Debug\Element_Capture_with_Pressure.obj
+         Debug\stdafx.obj
+         Element_Capture_with_Pressure.vcxproj -> D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Debug\Multi_Char_Input.exe
+     1>專案 "D:\UserData\Documents\Visual Studio 2012\Projects\Multi_Char_Input\Element_Capture_with_Pressure\Element_Capture_with_Pressure.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.66
